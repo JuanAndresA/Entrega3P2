@@ -1,0 +1,210 @@
+body{
+	background-color: lightgreen;
+}
+.ct{
+	width: 1000px;
+	height: 150px;
+	background-color: white;
+	border-style: double;
+	position: absolute;
+	left: 23%;
+	top: 5%;
+}
+.txtt{
+	position: relative;
+	left: 33%;
+	top: 20%;
+	font-size: 30px;
+	color: green;
+}
+.p1{
+
+    width: 500px;
+	height:400px;
+	background-color: white;
+	border-style: double;
+	position: absolute;
+	left: 23%;
+	top: 25%;
+
+}
+.p2{
+
+    width: 480px;
+	height:400px;
+	background-color: white;
+	border-style: double;
+	position: absolute;
+	left: 50%;
+	top: 25%;
+
+}
+.txtt1{
+	position: relative;
+	left: 35%;
+	font-size: 30px;
+	color: green;
+}
+.txtp1{
+	font-size: 25px;
+	margin: 10px;
+}
+.txtt2{
+	position: relative;
+	left: 17%;
+	font-size: 30px;
+	color: green;
+}
+.txtp2{
+	font-size: 25px;
+	margin: 10px;
+}
+.img{
+
+	width: 1000px;
+	height:250px;
+	background-color: white;
+	border-style: double;
+	position: absolute;
+	left: 23%;
+	top: 70%;
+
+}
+.img1{
+	width: 1000px;
+	height: 250px;
+}
+
+@media only screen and (max-width: 1300px){
+.ct{
+	width: 1000px;
+	height: 150px;
+	background-color: white;
+	border-style: double;
+	position: absolute;
+	left: 10%;
+	top: 5%;
+}
+
+.p1{
+
+    width: 400px;
+	height:400px;
+	background-color: white;
+	border-style: double;
+	position: absolute;
+	left: 10%;
+	top: 25%;
+
+}
+
+.p2{
+
+    width: 400px;
+	height:400px;
+	background-color: white;
+	border-style: double;
+	position: absolute;
+	left: 57%;
+	top: 25%;
+
+}
+.img{
+
+	width: 1000px;
+	height:250px;
+	background-color: white;
+	border-style: double;
+	position: absolute;
+	left: 10%;
+	top: 72%;
+
+}
+.img1{
+	width: 1000px;
+	height: 250px;
+}
+}
+
+@media only screen and (max-width: 800px){
+
+.ct{
+	width: 700px;
+	height: 100px;
+	background-color: white;
+	border-style: double;
+	position: absolute;
+	left: 5%;
+	top: 1%;
+}
+.txtt{
+	position: relative;
+	left: 25%;
+	top: 8%;
+	font-size: 30px;
+	color: green;
+}
+.p1{
+    width: 700px;
+	height:200px;
+	background-color: white;
+	border-style: double;
+	position: absolute;
+	left: 5%;
+	top: 15%;
+
+}
+.txtt1{
+	position: relative;
+	left: 37%;
+	top: -13%;
+	font-size: 25px;
+	color: green;
+}
+.txtp1{
+	position: relative;
+	top: -8%;
+	font-size: 20px;
+	margin: 5px;
+}
+.p2{
+
+    width: 700px;
+	height:200px;
+	background-color: white;
+	border-style: double;
+	position: absolute;
+	left: 5%;
+	top: 40%;
+
+}
+.txtt2{
+	position: relative;
+	left: 34%;
+	top: -12%;
+	font-size: 25px;
+	color: green;
+}
+.txtp2{
+	position: relative;
+	top: -10%;
+	font-size: 20px;
+	margin: 5px;
+}
+.img{
+
+	width: 700px;
+	height:250px;
+	background-color: white;
+	border-style: double;
+	position: absolute;
+	left: 5%;
+	top: 65%;
+
+}
+.img1{
+	width: 700px;
+	height: 250px;
+}
+
+}
